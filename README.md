@@ -9,3 +9,5 @@ I am going to show you how to:
 5. Reset email
 6. Delete account
 7. Obtain new user id Token with refresh Token
+
+Youtube video:
