@@ -1,5 +1,5 @@
 # FirebaseAuthentication
-This tutorial shows you how to set up authentication in Firebase console with using email and password. 
+This is a tutorial about how to create a new project in Firebase Console and how to set up the Authentication so that users will be able to create account, sign in, get account information and etc. Everything will just be done easily with Python using Pyrebase 3 module. 
 
 I am going to show you how to:
 1. Create user
